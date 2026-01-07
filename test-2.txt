@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is sample test modification - this is modified by dev2
+=======
+this is sample test modification. this line is modified by dev 1
+>>>>>>> 41008ce322e29c8fc65a1586af6dd22ffc2594d1
